@@ -1,5 +1,43 @@
 # 💫Sanmaya M B
-🎓 B.Tech Computer Science Student | Full Stack Developer | Problem Solver<br><br>📍 Lovely Professional University<br>📫 Email: sanmayabimal@gmail.com<br><br>🔗 LinkedIn: https://www.linkedin.com/in/sanmaya-m-b-/<br><br>💻 GitHub: https://github.com/sanmaaya<br><br>👋 About Me<br><br>I’m a Computer Science undergraduate passionate about building scalable full-stack systems and solving real-world problems through technology.<br><br>My work spans across web development, backend architecture, system design, and applied machine learning. I enjoy creating platforms that are not just functional, but structured, data-driven, and impactful.<br><br>From renewable energy modeling systems to agriculture support platforms and productivity tools like Padh Lo – Smart Study Planner, I focus on designing complete solutions — frontend to backend.<br><br>Currently strengthening my expertise in:<br><br>MERN Stack Development<br><br>Data Structures & Algorithms<br><br>System Design & Backend Engineering<br><br>Applied Machine Learning<br><br>🚀 Featured Projects<br>🌱 Electrosystem – Hybrid Renewable Energy Platform<br><br>Full-stack web platform to model and evaluate solar, wind, and battery hybrid systems.<br><br>Engineered energy-flow logic and hybrid control mechanisms<br><br>Enabled configuration comparison through data-driven simulations<br><br>Focused on sustainable power planning<br><br>Tech: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB<br><br>🎓 Padh Lo – Smart Study Planner<br><br>High-performance productivity system designed for students.<br><br>Focus timer & study streak tracking<br><br>Kanban session management with conflict detection<br><br>GPA calculator & subject prioritization<br><br>Data visualization with Chart.js<br><br>Light/Dark/Vampire themes<br><br>LocalStorage-based privacy-first architecture<br><br>Tech: HTML5, CSS3, Vanilla JS, Chart.js<br><br>🌾 TechnoGrowX – Smart Agriculture Support Platform<br><br>Three-panel system (Farmer, Expert, Admin) for crop disease reporting & solution management.<br><br>Secure login & user management<br><br>Image-based reporting<br><br>Analytics tracking for administrators<br><br>Tech: HTML, CSS, Tailwind CSS, Node.js, MySQL<br><br>🧘 SOHAM – Pranic Healing Website (Client Project)<br><br>Informative website with course registration workflow.<br><br>Database-backed form submissions<br><br>Email notification system<br><br>Production-ready client delivery<br><br>Tech: HTML, CSS, JavaScript, PHP, MySQL<br><br>💰 Expense Report Generator with AI Chatbot<br><br>Expense tracking system with automated PDF reports and AI assistant integration.<br><br>Category-wise visualizations<br><br>Monthly PDF report generation<br><br>OpenAI-powered chatbot for expense queries<br><br>Tech: PHP, JavaScript, Chart.js, jsPDF, OpenAI API<br><br>📊 Data Science & Machine Learning<br>Drug Review Sentiment Analysis<br><br>Built sentiment classification model using Logistic Regression & TF-IDF<br><br>Performed preprocessing, feature engineering & EDA<br><br>Visualized insights using Power BI dashboard<br><br>Tech: Python, Pandas, Scikit-learn, Power BI<br><br>💻 Technical Skills<br>Languages<br><br>C/C++, JavaScript, Java, Python, SQL<br><br>Frameworks & Libraries<br><br>React.js, Node.js, Express.js, Tailwind CSS, Bootstrap<br><br>Tools & Platforms<br><br>Git, GitHub, MongoDB, MySQL, Tableau<br><br>Core Competencies<br><br>Data Structures & Algorithms<br>DBMS<br>Responsive Web Design<br>System Architecture<br><br>🏆 Achievements<br><br>Solved 200+ coding problems across LeetCode, HackerRank, and GeeksforGeeks<br><br>Earned multiple HackerRank skill badges including C++ (5 Star), Java, 30 Days of Code, and C<br><br>📜 Certifications<br><br>Cloud Computing – NPTEL<br><br>Master Generative AI & Tools – Udemy<br><br>Mastering Data Structures & Algorithms (C/C++) – Udemy<br><br>Backend Web Development (Node.js & Express) – DevTown<br><br>Advanced Excel, Tableau & Power BI – LPU<br><br>🎓 Education<br><br>Lovely Professional University<br>B.Tech in Computer Science (2023 – Present)<br>CGPA: 7.3<br><br>Presentation Higher Secondary School, Kozhikode<br>PCM – 87.7%<br><br>🔥 Currently Focused On<br><br>Building scalable backend systems<br><br>Strengthening DSA for software engineering roles<br><br>Preparing for internships & full-time developer positions
+🎓 B.Tech Computer Science Student | Full Stack Developer | Problem Solver<br><br>
+📍 Lovely Professional University<br>📫 Email: sanmayabimal@gmail.com<br><br>
+🔗 LinkedIn: https://www.linkedin.com/in/sanmaya-m-b-/<br><br>
+💻 GitHub: https://github.com/sanmaaya<br><br>
+👋 About Me<br><br>
+I’m a Computer Science undergraduate passionate about building scalable full-stack systems and solving real-world problems through technology.<br><br>
+My work spans across web development, backend architecture, system design, and applied machine learning. I enjoy creating platforms that are not just functional, but structured, data-driven, and impactful.<br><br>
+From renewable energy modeling systems to agriculture support platforms and productivity tools like Padh Lo – Smart Study Planner, I focus on designing complete solutions — frontend to backend.<br><br>
+Currently strengthening my expertise in:<br>
+MERN Stack Development<br>
+Data Structures & Algorithms<br>
+System Design & Backend Engineering<br>
+Applied Machine Learning<br><br>
+🚀 Featured Projects<br>
+🌱 Electrosystem – Hybrid Renewable Energy Platform<br>Full-stack web platform to model and evaluate solar, wind, and battery hybrid systems.<br>
+Engineered energy-flow logic and hybrid control mechanisms<br>
+Enabled configuration comparison through data-driven simulations<br>
+Focused on sustainable power planning<br>
+Tech: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB<br><br>
+🎓 Padh Lo – Smart Study Planner<br>
+High-performance productivity system designed for students.<br>
+Focus timer & study streak tracking<br>
+Kanban session management with conflict detection<br>
+GPA calculator & subject prioritization<br>
+Data visualization with Chart.js<br>
+Light/Dark/Vampire themes<br>
+LocalStorage-based privacy-first architecture<br>
+Tech: HTML5, CSS3, Vanilla JS, Chart.js<br><br>
+🌾 TechnoGrowX – Smart Agriculture Support Platform<br>
+Three-panel system (Farmer, Expert, Admin) for crop disease reporting & solution management.<br>
+Secure login & user management<br>
+Image-based reporting<br>Analytics tracking for administrators<br>
+Tech: HTML, CSS, Tailwind CSS, Node.js, MySQL<br><br>
+🧘 SOHAM – Pranic Healing Website (Client Project)<br>
+Informative website with course registration workflow.<br>
+Database-backed form submissions<br>Email notification system<br>
+Production-ready client delivery<br>Tech: HTML, CSS, JavaScript, PHP, MySQL<br><br>
+💰 Expense Report Generator with AI Chatbot<br>Expense tracking system with automated PDF reports and AI assistant integration.<br>Category-wise visualizations<br>Monthly PDF report generation<br>OpenAI-powered chatbot for expense queries<br>Tech: PHP, JavaScript, Chart.js, jsPDF, OpenAI API<br><br>📊 Data Science & Machine Learning<br>Drug Review Sentiment Analysis<br>
+Built sentiment classification model using Logistic Regression & TF-IDF<br>Performed preprocessing, feature engineering & EDA<br>Visualized insights using Power BI dashboard<br>Tech: Python, Pandas, Scikit-learn, Power BI<br><br>💻 Technical Skills<br>Languages<br>C/C++, JavaScript, Java, Python, SQL<br>Frameworks & Libraries<br>React.js, Node.js, Express.js, Tailwind CSS, Bootstrap<br>Tools & Platforms<br>Git, GitHub, MongoDB, MySQL, Tableau<br>Core Competencies<br><br>Data Structures & Algorithms<br>DBMS<br>Responsive Web Design<br>System Architecture<br><br>🏆 Achievements<br>Solved 200+ coding problems across LeetCode, HackerRank, and GeeksforGeeks<br><br>Earned multiple HackerRank skill badges including C++ (5 Star), Java, 30 Days of Code, and C<br><br>📜 Certifications<br><br>Cloud Computing – NPTEL<br><br>Master Generative AI & Tools – Udemy<br>Mastering Data Structures & Algorithms (C/C++) – Udemy<br>Backend Web Development (Node.js & Express) – DevTown<br>Advanced Excel, Tableau & Power BI – LPU<br>🎓 Education<br><br>Lovely Professional University<br>B.Tech in Computer Science (2023 – Present)<br>CGPA: 7.3<br>Presentation Higher Secondary School, Kozhikode<br>PCM – 87.7%<br><br>🔥 Currently Focused On<br>Building scalable backend systems<br>Strengthening DSA for software engineering roles<br>Preparing for internships & full-time developer positions
 
 
 ## 🌐 Socials:
