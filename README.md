@@ -1,31 +1,45 @@
-# 💫Sanmaya M B
-🎓 B.Tech Computer Science Student | Full Stack Developer | Problem Solver<br><br>
-📍 Lovely Professional University<br>📫 Email: sanmayabimal@gmail.com<br><br>
-🔗 LinkedIn: https://www.linkedin.com/in/sanmaya-m-b-/<br><br>
-💻 GitHub: https://github.com/sanmaaya<br><br>
-👋 About Me<br><br>
-I’m a Computer Science undergraduate passionate about building scalable full-stack systems and solving real-world problems through technology.<br><br>
-My work spans across web development, backend architecture, system design, and applied machine learning. I enjoy creating platforms that are not just functional, but structured, data-driven, and impactful.<br><br>
-From renewable energy modeling systems to agriculture support platforms and productivity tools like Padh Lo – Smart Study Planner, I focus on designing complete solutions — frontend to backend.<br><br>
-Currently strengthening my expertise in:<br>
-MERN Stack Development<br>
-Data Structures & Algorithms<br>
-System Design & Backend Engineering<br>
-Applied Machine Learning<br><br>
-🚀 Featured Projects<br>
-🌱 Electrosystem – Hybrid Renewable Energy Platform
-Tech: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB<br><br>
-🎓 Padh Lo – Smart Study Planner<br>
-Tech: HTML5, CSS3, Vanilla JS, Chart.js<br><br>
-🌾 TechnoGrowX – Smart Agriculture Support Platform<br>
-Tech: HTML, CSS, Tailwind CSS, Node.js, MySQL<br><br>
-🧘 SOHAM – Pranic Healing Website (Client Project)<br>
-Tech: HTML, CSS, JavaScript, PHP, MySQL<br><br>
-💰 Expense Report Generator with AI Chatbot<br>Tech: PHP, JavaScript, Chart.js, jsPDF, OpenAI API<br><br>
-📊 Data Science & Machine Learning<br>Drug Review Sentiment Analysis<br>Tech: Python, Pandas, Scikit-learn, Power BI<br><br>
-💻 Technical Skills<br>Languages: C/C++, JavaScript, Java, Python, SQL<br>Frameworks & Libraries: React.js, Node.js, Express.js, Tailwind CSS, Bootstrap<br>Tools & Platforms: Git, GitHub, MongoDB, MySQL, Tableau<br>Core Competencies: Data Structures & Algorithms, DBMS, Responsive Web Design, System Architecture<br><br>
-🏆 Achievements<br>Solved 200+ coding problems across LeetCode, HackerRank, and GeeksforGeeks<br><br>Earned multiple HackerRank skill badges including C++ (5 Star), Java, 30 Days of Code, and C<br>📜 Certifications<br><br>Cloud Computing – NPTEL<br> Master Generative AI & Tools – Udemy<br>Mastering Data Structures & Algorithms (C/C++) – Udemy<br>Backend Web Development (Node.js & Express) – DevTown<br>Advanced Excel, Tableau & Power BI – LPU<br>🔥 Currently Focused On<br>Building scalable backend systems<br>Strengthening DSA for software engineering roles<br>Preparing for internships & full-time developer positions
+# Sanmaya M B  
+B.Tech Computer Science | Full Stack Developer  
 
+I build scalable full-stack applications solving real-world problems — from renewable energy systems to agriculture platforms and productivity tools.
+
+📍 Lovely Professional University  
+🔗 LinkedIn: https://www.linkedin.com/in/sanmaya-m-b-/  
+📫 Email: sanmayabimal@gmail.com  
+
+---
+
+## 🚀 Selected Projects
+
+### 🌱 Electrosystem – Hybrid Renewable Energy Platform  
+**Tech:** Node.js, Express.js, MongoDB, JavaScript  
+Full-stack platform for modeling and managing hybrid renewable energy systems.
+
+### 🌾 TechnoGrowX – Smart Agriculture Support Platform  
+**Tech:** Node.js, MySQL, Tailwind CSS  
+Agriculture assistance platform providing structured backend and responsive UI.
+
+### 🎓 Padh Lo – Smart Study Planner  
+**Tech:** JavaScript, Chart.js  
+Productivity web app for tracking study goals and performance analytics.
+
+### 📊 Drug Review Sentiment Analysis  
+**Tech:** Python, Pandas, Scikit-learn  
+Machine learning model classifying drug reviews into sentiment categories.
+
+---
+
+## 💻 Technical Stack
+
+**Languages:** C++, JavaScript, Java, Python, SQL  
+**Backend:** Node.js, Express.js  
+**Frontend:** React.js, Tailwind CSS, Bootstrap  
+**Database:** MongoDB, MySQL  
+**Core:** Data Structures & Algorithms, DBMS  
+
+---
+
+GitHub: https://github.com/sanmaaya
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanmayamb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanmayabimal@gmail.com) 
