@@ -1,48 +1,178 @@
-# Sanmaya M B  
-B.Tech Computer Science | Full Stack Developer  
+<h1 align="center">Hi 👋, I'm Sanmaya</h1>
 
-I build scalable full-stack applications solving real-world problems — from renewable energy systems to agriculture platforms and productivity tools.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Science+Student;Developer+%26+Problem+Solver;Building+Practical+Applications;Exploring+AI+%26+Full+Stack+Development" />
+</h3>
 
-📍 Lovely Professional University  
-🔗 LinkedIn: https://www.linkedin.com/in/sanmaya-m-b-/  
-📫 Email: sanmayabimal@gmail.com  
-
----
-
-## 🚀 Selected Projects
-
-### 🌱 Electrosystem – Hybrid Renewable Energy Platform  
-**Tech:** Node.js, Express.js, MongoDB, JavaScript  
-Full-stack platform for modeling and managing hybrid renewable energy systems.
-
-### 🌾 TechnoGrowX – Smart Agriculture Support Platform  
-**Tech:** Node.js, MySQL, Tailwind CSS  
-Agriculture assistance platform providing structured backend and responsive UI.
-
-### 🎓 Padh Lo – Smart Study Planner  
-**Tech:** JavaScript, Chart.js  
-Productivity web app for tracking study goals and performance analytics.
-
-### 📊 Drug Review Sentiment Analysis  
-**Tech:** Python, Pandas, Scikit-learn  
-Machine learning model classifying drug reviews into sentiment categories.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanmaaya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 💻 Technical Stack
+## 👩‍💻 About Me
 
-**Languages:** C++, JavaScript, Java, Python, SQL  
-**Backend:** Node.js, Express.js  
-**Frontend:** React.js, Tailwind CSS, Bootstrap  
-**Database:** MongoDB, MySQL  
-**Core:** Data Structures & Algorithms, DBMS  
+* 🎓 B.Tech Computer Science Student at **Lovely Professional University**
+* 💡 Interested in building practical and impactful applications
+* 🌱 Exploring **Full Stack Development, AI, and System Design**
+* 📫 Reach me at **[sanmayabimal@gmail.com](mailto:sanmayabimal@gmail.com)**
+* 🔗 LinkedIn: **https://www.linkedin.com/in/sanmaya-m-b-/**
 
 ---
 
-GitHub: https://github.com/sanmaaya
+## 🚀 Featured Projects
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanmayamb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanmayabimal@gmail.com) 
+### 💼 WorkBalance – Employee & Team Management System
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Tech:** Node.js, Express.js, MongoDB, JavaScript
+Full-stack employee and team management platform supporting organizational workflows and productivity.
+
+🔗 Repository: https://github.com/sanmaaya/Company
+
+---
+
+### 🌍 Travelscape – AI Travel Planning Platform
+
+**Tech:** Laravel, PHP, MySQL, JavaScript
+Travel platform integrating destination discovery with hotel and travel booking features.
+
+🔗 Repository: https://github.com/ishantpradhan2601/travel
+
+---
+
+### 🌱 Electrosystem – Hybrid Renewable Energy Platform
+
+**Tech:** JavaScript, Web Technologies
+Platform focused on renewable energy management and hybrid system modeling.
+
+🔗 Repository: https://github.com/sengoku70/electrosystems.github.io
+
+---
+
+### 🌾 TechnoGrowX – Smart Agriculture Support Platform
+
+**Tech:** Node.js, MySQL, Tailwind CSS
+Agriculture assistance platform with structured backend functionality and responsive UI.
+
+🔗 Repository: https://github.com/sanmaaya/TechnoGrowX
+
+---
+
+### 📊 Drug Review Sentiment Analysis
+
+**Tech:** Python, Pandas, Scikit-learn, NLP
+Machine learning model for sentiment classification and drug review analysis.
+
+🔗 Repository: https://github.com/sanmaaya/drug-review-sentiment-analysis
+
+---
+
+### 📚 Smart Study Planner
+
+**Tech:** JavaScript, Chart.js
+Study planning and productivity application with performance analytics.
+
+🔗 Repository: https://github.com/sanmaaya/Smart-Study-Planner
+
+---
+
+### 💰 Paisa Bachao – Finance Tracker
+
+**Tech:** JavaScript
+Finance and expense tracking application for budgeting and money management.
+
+🔗 Repository: https://github.com/sanmaaya/Finance-Tracker
+
+---
+
+### 🤖 Expense Report Generator with Chatbot
+
+**Tech:** JavaScript, AI Integration
+Expense report generation platform integrated with chatbot support.
+
+🔗 Repository: https://github.com/sanmaaya/Expense-Report-Generator-with-Chatbot
+
+---
+
+### 🧘 SOHAM – Wellness & Meditation Website
+
+**Tech:** HTML, CSS, Bootstrap, JavaScript
+Website developed for wellness and meditation services.
+
+🔗 Repository: https://github.com/sanmaaya/soham
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### Tools & Design
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanmaaya&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanmaaya&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmaaya&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sanmaya-m-b-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sanmayabimal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/sanmaaya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+⭐ Thanks for visiting my profile!
