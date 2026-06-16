@@ -95,6 +95,7 @@ Productivity application for study planning, progress tracking, and performance 
 
 Personal finance management application for tracking expenses, budgeting, and monitoring financial habits.
 
+🔗 Live Demo: https://paisa-lemon.vercel.app/
 🔗 Repository: https://github.com/sanmaaya/Finance-Tracker
 
 ---
@@ -113,6 +114,7 @@ Expense reporting platform with chatbot-assisted interactions for generating and
 
 A wellness-focused website providing information and services related to meditation, mindfulness, and healthy living.
 
+🔗 Live Demo: https://schoolofhealingandmeditation.com/
 🔗 Repository: https://github.com/sanmaaya/soham
 
 ---
