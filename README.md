@@ -11,6 +11,7 @@
 - 🌱 Currently exploring **Full Stack Development**, **DevOps**, **Cloud Computing**, **AI**, and **System Design**
 - 📫 Reach me at **sanmayabimal@gmail.com**
 - 🔗 LinkedIn: [sanmaya-m-b](https://www.linkedin.com/in/sanmaya-m-b-/)
+- 🧪 Portfolio: https://sanmayamb.vercel.app/
 
 ---
 
